@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "go-conversational-ai-poc",
+    "private_key_id": "a601298aaecb2dbe92f712023d75c56ca316bb5c",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSevYIEmCZt1nI\np2vKoiPdkpR8vAWE6l63ihrLBm5S8fJHh5ZLGwPxR0UqZaI758jmaHtIZmx/5ziD\nc2pYqKtlaI4tla9tAnhlnYOI7JnBVk/+aee17rLCyxGyGMdhUWapVzoM4+TMnFom\nepxBY11TvGvNot98aEs75Evt5blwBkeP6d8gO5L4cqieOKhYblfWXkbgDN3k69nh\nvu7uGARyafbzY54aSblNrooSobp9q3bZh2Abf2vTv4I3f//rZFMJ5gBTaR7ono8U\nHkE3K1kdRvZb4chXSVloBRam+rh7K5sAc4d+hUnII9aLDoQtc0ptSNA81rDXc376\nFCCr7ccVAgMBAAECggEAGGjzPJdpBZq6emdUPHFWaH115AtoNnR53J5TIiWSSONP\nXlVOrFIrQGGsF1EnIfxtE6+dUJW0UpcNukz50eNp0T5xcr7v09wb+2jrlscdw8rP\nRymgGjzfFXE4kaeHA/XNSqlXjaQmZkZhvCGvGnQ8IBhzhisz8PkldIIy/hmMyn1x\n8JqmtQIaZ4jMPSwh2lZjn9pAsnIWMfkssqto6Gcl8OVdibLaJ0rmXogCfVm3GMby\nP6bQBcFCt/nAlU1AXlBTnMjH6zLUdYfepMgzyhsuJc2IdUIKkiceOIFDdJkGZ54D\nJUZYozzIX4i+EZYgNO/Z3yhmaoTRPsHPAkpWYdh5kQKBgQD7AKjiNUck+5UCSYGF\nI6ij0kwC6vnjp6hiDPNM0SVWoM910OXONrIHdkl57jlX8djNx4hk+I7RXg4QThJN\nI2eUF/84GShdMUORiVSb12XJVOrmkxEhKD8b8tc0SNx/mWlCXlBTHaILk0FA62WX\nkNS+GyqjCS9sXxJ47znO1sD9uQKBgQDWq8M5yumr0sGq6aUIWIR/AldC6BA1+OkL\nAox+Zk4yvkbOkUZ177dd/gyHe3O0MQxoR5lOWHfFJMo7oahiLZDMLZ+OAkgto1ZW\nHuSBRgGKbYNgaMmnKQ4Z1bqtI09Y6J3CO8uIh7V3JvQlavmD8WDMc3QyqTZoNE5N\n5kvSeZTiPQKBgQCL161AApD1sNkvIgbwR5KwWv0Qbxv0UzeEEVUISkn0Prn3GQC/\n6Ec90xBSx3/ZWJwC4hVCtBzV1wIc4XJe2cfegZQnDBUp/sV3czzZaqOCDTamae+U\nOpkWmDCAJ8v5p142pNc5x3u92Tf01HGQhReSJw6VMQvj5AAlsprRe2KguQKBgG9b\nMi4sgAJNlYDfKmil4jUwNavTTXVx5RF9BPwcfbv80CYfXfmXm/r56e3tsBtsxg7h\n9Tia06ZEa1N7jClBkbcYg4fazy49aG/MHqSgd/Qi0t+T++bmeRYVtHxTsLliEVPM\nSMxN+WgRoNw4Ha6/64Ki8UfGVx6+40+tgu9vejfRAoGANmtl8Xixo2icz0as1/wF\nxpsv8TSatyQiqyNTqoTny9yfz/SBh9togDV5nA0mpFRVBKXEZvnMIFpGO7vLIKrd\nanzOOYUjtYiXGvdM83UfLb98la2FKd1kaL79SPr0SpXjeosFM0i7F453Cn2QE4Ak\nfe51U/47rVbT2M/fVuJp0Ok=\n-----END PRIVATE KEY-----\n",
+    "client_email": "fwd-smart-transcriber-v3@go-conversational-ai-poc.iam.gserviceaccount.com",
+    "client_id": "108100405851233893947",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fwd-smart-transcriber-v3%40go-conversational-ai-poc.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
