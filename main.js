@@ -22,7 +22,7 @@ process.env.GOOGLE_APPLICATION_CREDENTIALS = "key.json";
 process.env["LANGSMITH_TRACING"] = "true";
 process.env["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com";
 process.env["LANGCHAIN_API_KEY"] = "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";
-// process.env["LANGCHAIN_PROJECT"] = "My Project Name"; // Optional: "default" is used if not set
+process.env["LANGCHAIN_PROJECT"] = "TH QC"; // Optional: "default" is used if not set
 // CSV Writer setup
 
 // Folder containing the files to be processed
