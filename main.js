@@ -4,7 +4,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 const { createObjectCsvWriter } = require('csv-writer');
-
+const { traceable } = require("langsmith/traceable");
 // Google Cloud credentials and setup
 const gcsBucketName = 'sample-voice-bucket';
 const storage = new Storage();
@@ -15,14 +15,20 @@ const azureApiKey = 'b3e819600fbe4981be34ef2aa79943e2';
 const azureEndpoint = 'https://ik-oai-eastus-2.openai.azure.com/';
 const azureDeploymentName = 'gpt-4o';
 
+const { v4: uuidv4 } = require('uuid');
+
+
+process.env.GOOGLE_APPLICATION_CREDENTIALS = "key.json";
+process.env["LANGSMITH_TRACING"] = "true";
+process.env["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com";
+process.env["LANGCHAIN_API_KEY"] = "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";
+// process.env["LANGCHAIN_PROJECT"] = "My Project Name"; // Optional: "default" is used if not set
+// CSV Writer setup
+
 // Folder containing the files to be processed
 const folderPath = './audioFiles';
 
-process.env.GOOGLE_APPLICATION_CREDENTIALS = "key.json";
 
-
-
-// CSV Writer setup
 const csvWriter = createObjectCsvWriter({
     path: 'log.csv',
     header: [
@@ -103,11 +109,25 @@ const getSummary = async (transcription) => {
 
 const processFile = async (filePath) => {
     const startTime = Date.now();
+    const tid = uuidv4();
 
     try {
-        const gcsFilePath = await uploadFileToGCS(filePath);
-        const transcription = await transcribeFile(gcsFilePath);
-        const summary = await getSummary(transcription);
+        const gcsFilePath = await (traceable(uploadFileToGCS, {
+            name: "Upload file",
+            run_type: "chain",
+            metadata: { "conversation_id": tid }
+        })(filePath));
+        const transcription = await (traceable(transcribeFile, {
+            name: "Transcript",
+            run_type: "llm",
+            metadata: { "conversation_id": tid }
+        })(gcsFilePath));
+
+        const summary = await (traceable(getSummary, {
+            name: "Analysis",
+            run_type: "llm",
+            metadata: { "conversation_id": tid }
+        })(transcription));
 
         const executionTime = Date.now() - startTime;
 
