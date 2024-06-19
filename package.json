@@ -18,7 +18,7 @@
   },
   "scripts": {
     "build": "yarn",
-    "start": "node app.mjs"
+    "start": "node main.js"
   },
   "repository": "https://github.com/asahpchoi/aibackend.git",
   "author": "asahpchoi <asa.choi@gmail.com>"

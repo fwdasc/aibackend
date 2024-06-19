@@ -62,6 +62,13 @@ const transcribeFile = async (gcsFilePath) => {
             encoding: 'LINEAR16', // Adjust based on your file's encoding
             //sampleRateHertz: 16000, // Adjust based on your file's sample rate
             languageCode: 'th-TH', // Adjust based on your file's language
+            metadata: {
+                interactionType: 'PHONE_CALL',
+                microphoneDistance: 'NEARFIELD',
+                recordingDeviceType: 'SMARTPHONE',
+                originalMediaType: 'AUDIO',
+                industryNaicsCodeOfAudio: 519190,
+            },
         },
     };
 
@@ -69,7 +76,7 @@ const transcribeFile = async (gcsFilePath) => {
     const [operationResult] = await response.promise();
     const transcription = operationResult.results
         .map(result => result.alternatives[0].transcript)
-        .join('\n');
+        .join(' ');
 
     console.log('Transcription:', transcription);
     return transcription;
