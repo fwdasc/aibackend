@@ -59,10 +59,10 @@ const transcribeFile = async (gcsFilePath) => {
             uri: gcsUri,
         },
         config: {
-            encoding: 'LINEAR16', // Adjust based on your file's encoding
+            encoding: 'MP3', // Adjust based on your file's encoding
             //sampleRateHertz: 16000, // Adjust based on your file's sample rate
-            languageCode: 'th-TH', // Adjust based on your file's language
-            //languageCode: 'yue-Hant-HK',
+            //languageCode: 'th-TH', // Adjust based on your file's language
+            languageCode: 'yue-Hant-HK',
 
             metadata: {
                 interactionType: 'PHONE_CALL',
@@ -163,7 +163,7 @@ const processFile = async (filePath) => {
 const main = async () => {
     try {
         const files = fs.readdirSync(folderPath)
-            .filter(file => path.extname(file).toLowerCase() === '.wav');
+            .filter(file => path.extname(file).toLowerCase() === '.mp3');
 
         const records = [];
         for (const file of files) {
