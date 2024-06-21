@@ -63,7 +63,7 @@ const transcribeFile = async (gcsFilePath) => {
             //sampleRateHertz: 16000, // Adjust based on your file's sample rate
             languageCode: 'th-TH', // Adjust based on your file's language
             //languageCode: 'yue-Hant-HK',
-
+            enable_word_time_offsets: true,
             metadata: {
                 interactionType: 'PHONE_CALL',
                 microphoneDistance: 'NEARFIELD',
@@ -77,7 +77,10 @@ const transcribeFile = async (gcsFilePath) => {
     const [response] = await speechClient.longRunningRecognize(request);
     const [operationResult] = await response.promise();
     const transcription = operationResult.results
-        .map(result => result.alternatives[0].transcript)
+        .map(result => {
+            console.log({ data: result.resultEndTime })
+            return result.alternatives[0].transcript
+        })
         .join(' ');
 
     console.log('Transcription:', transcription);
