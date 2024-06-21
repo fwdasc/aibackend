@@ -1,3 +1,4 @@
 key.json
 node_modules/*
-audioFiles/*
+audioFiles/*/*.mp3
+audioFiles/*/*.wav

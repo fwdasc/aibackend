@@ -1,0 +1,25 @@
+**Non-Compliant Conversation Identified:**
+
+1. **Failure to Identify as Selling a New Policy**
+   - The conversation did not clearly inform the customer that they are buying a new policy.
+
+2. **Lack of Detailed Information on Premium Payments**
+   - The conversation did not adequately inform the customer about premium payment details such as the amount, insurance period, payment period, and obligations to continuously pay premiums. Also, it lacked information on the effects of not paying premiums continuously.
+
+3. **Missing Customer Rights Information**
+   - The conversation did not inform the customer about their rights after purchasing an insurance product, such as the “free look” period, the right to surrender or cancel the policy, claim rights, and the claim process.
+
+4. **Insufficient Policy Condition Summary**
+   - There was no comprehensive summary of conditions, protections, benefits, and exclusions in the life insurance policy provided.
+
+5. **Missing Right to Cancel Information**
+   - The conversation did not inform the customer about the right to cancel the policy within 30 days or more after receiving the policy, with a full refund of premiums.
+
+6. **Incomplete Company/Entity Identification**
+   - The company’s name was provided, but there was no contact phone number given. Additionally, no names were provided if a broker or bank was involved.
+
+> **Example of the conversation's non-compliance:**
+
+   "...ขอรบกวนคุณสุนิสานะคะในการพัฒนาต่อไปคำว่าตกลงซื้อประกันให้หนูนิดนึงค่ะเชิญค่ะตกลงตกลงซื้อประกันค่ะพี่เขาขอเป็นคำว่าตกลงตกลงซื้อประกันเรียบร้อยแล้วค่ะขอบพระคุณนะคะเรียบร้อยค่ะ"
+
+By addressing these gaps, the conversation will become compliant with the guidelines provided.

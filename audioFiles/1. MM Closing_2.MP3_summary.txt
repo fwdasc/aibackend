@@ -1,0 +1,27 @@
+```markdown
+**Non-Compliant Conversations:**
+1. "而家我又想賣啲計劃係咪ok嘅"
+   - **Highlight:** Implying an endowment product as a deposit/saving product without clear context.
+
+2. "你知我哋呢啲係呢個自選计划又得㗎嗎"
+   - **Highlight:** Not informing the customer adequately that they are buying a new insurance policy.
+
+3. "頭先咪講咗你保費就170蚊咁半價咋嘛你舊年係咪咁我一份每個月百幾蚊二百幾蚊冇可能買咗個醫療保健康小人後君子呢個呢因為文化醫療保險你都知啦要通過健康問題嘅方面嘅咁如果你出面買真係叫歡啦都係咪你廿幾條件"
+   - **Highlight:** Overstating policy benefits without adequate comparison.
+
+4. "醫療計劃要計劃級別要等緊計劃呀每人一支付揀你揀選係三萬蚊嘅所有賠償呀都係港幣已經入好曬假得唔得㗎喇"
+   - **Highlight:** Providing incorrect product conditions.
+
+5. "淘寶自主權自主 醫療計劃要計劃級別要等緊計劃呀每人一支付揀你揀選係三萬蚊嘅所有賠償呀都係港幣已經入好曬假得唔得㗎喇"
+   - **Highlight:** Not accurately informing about the start date of protection and the duration of premium payment.
+
+6. "唔好彩喺佢有好多100 101歲咋嘛係咪呀咁得閒行開心過仲有個新年一萬五千蚊嘅可以幾多人將軍澳今日好人壽保額"
+   - **Highlight:** Not providing a complete summary of conditions and exclusions in the life insurance policy.
+
+**Other Significant Issues:**
+- Continuous use of vague language and inconsistencies in the explanation of premium payment.
+- Lack of complete and clear information regarding customer rights and the effects of non-payment of premiums.
+- Omission of adequate information about the company’s contact details and customer support.
+
+In summary, the provided conversation contains several instances of non-compliance with the guidelines provided.
+```

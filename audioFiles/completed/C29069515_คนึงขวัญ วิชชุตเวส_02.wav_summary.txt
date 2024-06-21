@@ -1,0 +1,24 @@
+```markdown
+**Non-Compliant Conversation Detected:**
+
+การสนทนาทั้งหมดนี้มีหลายส่วนที่ไม่สอดคล้องกับแนวทางปฏิบัติตามคำแนะนำ
+
+**Non-Compliant Terms and Statements:**
+- "อันนี้เป็นออมทรัพย์ไม่ใช่ประกันชีวิตใช่ไหมคะ" 
+
+  **Issue:** The word "ออมทรัพย์" (savings) should be clearly identified as "life insurance saving" to avoid any misunderstanding that it is a deposit instead of an insurance premium.
+
+- "ถ้าเกิดยกเลิกตอนไหนก็คือคืนเต็มวงเงินถูกต้องไหมคะ"
+
+  **Issue:** Implying that the customer will receive a full refund at any time without clearly mentioning the conditions and implications on the policy benefits.
+
+- "เพราะว่าเขาไม่ได้แจ้งไว้ว่าเป็นประกันชีวิตแล้วก็บอกว่ามันเป็นแค่สะสมทรัพย์"
+
+  **Issue:** Failure to inform the customer clearly that the offered product is a life insurance policy and not a saving product.
+
+- "ลูกค้ายกเลิกก็คือไอ้ตัวเช็คเงินคืนระหว่างทางและลูกค้าก็ได้แต่ดนตรีที่ลูกค้าเก็บอออันนั้นเองค่ะมันจะเป็นประมาณนี้เลยนะ"
+
+  **Issue:** Misleading information regarding the cancellation and refund process without providing clear conditions and consequences.
+
+There is an overall failure to properly differentiate between life insurance and savings products, as well as to clearly explain the policy's terms, conditions, and benefits.
+```

@@ -1,0 +1,33 @@
+```markdown
+**Non-Compliant Conversation Highlights**
+
+1. **Misleading Information on Premiums and Returns**:
+   > "ผลตอบแทนของชีวิต 500 ได้ไหมครับ"
+   - This phrase causes misunderstanding as it suggests a return, whereas it should clearly refer to life insurance benefits.
+
+2. **Inappropriate Use of the Term 'Saving'**:
+   > "แถมเป็นประกันมาจับตัวประกันน่ะตัวประกันน่ะค่ะคุณลูกค้า"
+   - This conversation confuses the life insurance policy with a savings product.
+
+3. **Omission of Required Information**:
+   - The dialogue fails to provide the necessary details such as the total amount of premiums, insurance period, and the “free look” period.
+   - No clear mention that a life insurance policy is being purchased.
+
+4. **Lack of Transparency Regarding Product Suitability**:
+   - No effort to ensure the product suits the customer's needs, risks, and payment capability.
+   - No alternatives are suggested even if the customer shows hesitation or confusion.
+
+5. **Encouraging Premium Payment Through Misleading Means**:
+   > "เราจะติดต่อไปเหมือนกันแต่ติดต่อ SCB บอกว่ามันคนละบริษัทอีโคเทคพี่เทคคือพี่พจน์เทคเนี่ยก็อยู่ในเครือของธนาคารไทยพาณิชย์"
+   - There is a lack of clear separation between the insurance product and other financial products.
+
+6. **Overstating Benefits**:
+   > "ผมมั่นใจว่าลูกค้าเนี่ยเห็นผลประโยชน์แล้วลูกค้าชอบแน่นอนพี่"
+   - The conversation exaggerates the benefits without clearly explaining the detailed conditions and exclusions.
+
+7. **Incorrect Product Information**:
+   > "แต่ผมมั่นใจว่าถ้าพี่เห็นกรมธรรม์ตัวจริงผมแล้วพี่จะชอบวันนั้นพี่จะไม่ยกเลิกแน่นอน"
+   - The emphasis on liking the product upon seeing the policy potentially avoids discussing any unappealing conditions upfront.
+
+To comply with guidelines, ensure transparent communication, proper use of terminology, and provide all necessary information. Always clarify that it is an insurance product and separate it from other financial products.
+```

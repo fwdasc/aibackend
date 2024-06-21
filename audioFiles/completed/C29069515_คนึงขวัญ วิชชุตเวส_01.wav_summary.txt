@@ -1,0 +1,20 @@
+**Non-Compliant Conversations Highlighted:**
+
+1. **Implying the endowment product is a saving/deposit product:**
+   - "ทุกๆปีจะมีการจ่ายเงินการันตีคืนให้ลูกค้าเลยนะคะสูงถึงปีละ 10% เลยค่ะขอเงินต้นที่ลูกค้ามีการออมเงินเข้ามาจำนวนมาก"
+   - "ลูกค้าจะเอาครบหรือไม่ครบก็ตามเงินเก็บเงินก็ลูกค้าไม่หายไปไหนแน่นอนค่ะ"
+   - "พี่ลองคำนวณคร่าวๆนะสมมุติลูกค้าออมเดือนละ 2000 25 * 12 ปีนึงก็ขายดีจะเก็บเข้ามา 200 แต่ถ้าเกิดติดจริงๆลูกค้าได้เงินคืนแค่ปีละ 2,000 บาทของเราให้ 2,500 บาทก็คือมากกว่าที่ลูกค้าไปฝากประจำนะเขาจะแวะหรือทำเป็นโครงการออมทั่วไปอยู่แล้วค่ะ"
+
+2. **Comparing product benefits with other products:**
+   - "มากกว่าที่ลูกค้าฝากประจำหน้าเคาน์เตอร์แบงค์นะคะ 2,500 นี้ลูกค้าก็รอรับเงินคืนตั้งแต่ปีแรกเป็นเช็คเงินคืนให้ลูกค้าเลยค่ะ"
+   - "ไม่มีที่ไหนให้นัดเอาให้ตั้งแต่ทีแรกแล้วก็ลูกค้าได้ทุกทีด้วย"
+   - "เพราะหนูเชื่อว่าตอนนี้ยังไม่มีที่ไหนให้เยอะขนาดนี้"
+
+3. **Failing to inform that the customer is buying a new policy:**
+   - Any clauses about clearly informing that the customer is purchasing a new insurance policy are missing.
+
+4. **Overstating policy benefits:**
+   - "คืนเงินให้ลูกค้าสูงถึงปีละ 10% ไม่มีที่ไหนให้นัดเอาให้ตั้งแต่ทีแรกแล้วก็ลูกค้าได้ทุกทีด้วย"
+   - "หมายความว่าวันนี้ลูกค้าออมเดือนละ 2000 กว่าบาทสองแสนห้าพรุ่งนี้ลูกค้าไม่ได้ต้องมาจ่ายเงินเพิ่มนะคะตอนนี้เราคุ้มครองคุณให้ลูกค้าเลยค่ะพี่เราไม่ต้องเสียเงินเพิ่ม"
+
+The conversation includes multiple instances implying the product is a savings product instead of clearly stating it as a life insurance premium payment. It also involves overstating benefits and comparing the product to other financial savings models, which are practices against compliance guidelines.

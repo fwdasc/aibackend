@@ -1,0 +1,47 @@
+**Non-Compliant Conversations Identified:**
+
+### Non-Compliance 1:
+```
+ผมเรียนสายที่วิชัยยุทธนะครับผมครับผมพี่วิทยุผมเจ้าหน้าที่ติดต่อจากสำนักงานใหญ่ไทยพาณิชย์ SCB protect นะครับส่วนนี้ถ้าผมรบกวนเวลาพี่ไม่อยู่สมาชิกลูกค้าของธนาคารสักครู่เดียวไม่นานนะครับขอบพระคุณพี่วิชัยยุทธเป็นอย่างสูงเลยครับ
+เจ้าหน้าที่ให้บริการติดต่อเข้ามาวันนี้นะครับธนกิจเลี้ยงประยูรนะครับเลขที่ใบอนุญาตรหัสพนักงานหมายเลขที่ 630 นะครับ 300 3916 นี้จะมีการบันทึกเสียงปรับปรุงการให้บริการด้วยนะครับ
+```
+- **Explanation**: There's no informing the customer that they are purchasing a new insurance policy.
+    
+### Non-Compliance 2:
+```
+ครับผมอันนี้พี่ไม่รู้จะเทียบกันกับฝากประจำได้เลยครับเพราะว่าเราจะจ่ายตามรอบบิลปกติเหมือนเดิมแต่ว่าปลายทางของเงินที่เราจะไปเนี่ยนอกจากจะเติมเข้าไปเติมเต็มในตัวบัตรแล้วเงินที่มีการตัดออกไปเนี่ยจะไปเป็นเงินเก็บไว้ ...
+```
+- **Explanation**: The agent compares the returns from the insurance product to fixed deposits, which can imply it's a deposit product rather than an insurance product.
+
+### Non-Compliance 3:
+```
+สมมุติว่าถ้าพี่จะหยุดไปฝากเงินกับทางบัญชีธนาคารบัญชีออมทรัพย์หรือฝากประจำปีนึงสมมุติถ้าฝากได้สัก 50 แล้วกันที่วิชัยยุทธอัตราดอกเบี้ยเงินฝากเนี่ยมันไม่ได้สูงมากอยู่แล้วใช่ไหมครับ ...
+```
+- **Explanation**: Overstatement of policy benefits by comparing and implying higher returns than bank deposit rates without clear disclosure that it is insurance, not a deposit.
+
+### Non-Compliance 4:
+```
+เดี๋ยวพี่จะใช้ก็จะมีเงินส่วนนี้อีกต่างหากแล้วซึ่งเป็นงานที่ไม่เกี่ยวกับบัตรเครดิตเลยนะไม่ได้บัตรเครดิตอันนี้ต่างหากนะครับส่วนตรงนี้ก็สามารถพิจารณาตามความเหมาะสมได้ที่ไม่ใช่อยู่แต่ว่าต้องเรียนแจ้งว่ากรณีที่เรามีการปิดโครงการไปแล้วอ่ะถ้ายังไงแล้วเนี่ยน้องมองว่ามันน่าเสียดายเรื่องของผลประโยชน์คือเรื่องของประกันชีวิตแบบมันจะขยายความคุ้มครองไปด้วยแล้วก็ผลตอบแทนที่จะได้รับสิ้นปีละ 5000 ไม่มีอีกแล้วซึ่งน้องเรียนแจ้งว่ามันได้ไม่ครบแล้วกำลังจะถึงที่ได้ทำมามันก็น่าจะได้มากกว่านี้ถ้าเกิดว่าวิทยุเก็บต่อได้ก็อยากจะไปเรื่อยๆครับพี่
+```
+- **Explanation**: Overstatement of benefits again, potentially without providing clear terms and conditions.
+
+### Non-Compliance 5:
+```
+เนี่ยน่าจะเหมาะกับลูกค้าที่ใช้บัตรเครดิตมากกว่าเท่านี้เราใช้บัตรเครดิตแล้วเราไปสักอาจารย์มาผมว่ามันไม่ค่อยโอเคเท่าไหร่ดอกเบี้ยก็ได้แค่นั้นนะพี่ประมาณ 2-3 เปอร์เซ็นต์ส่วนใหญ่เขาไปลงกองทุนกันมากกว่าแต่ถ้าเป็นลูกค้าใช้บัตรเครดิตอ่ะบางท่านไม่มีกองทุนเงินฝากประจำแต่มีแค่โครงการแบบนี้ที่จะเป็นในลักษณะรูปแบบการออมทรัพย์แบบนี้แบบเดียวจบเลยเพราะว่ามันการันตีผลประโยชน์ให้เราทุกปีไม่ต้องไปลุ้นเหมือนกองทุนแถมตัวเลขได้สูงกว่าฝาก...
+```
+- **Explanation**: Misleading comparison with fixed deposits and funds without clearly explaining it is an insurance savings product.
+  
+### Non-Compliance 6:
+```
+ถอนพรุ่งนี้มันจะหักทุกเดือนหรือว่าเราเราเราจะมีการตัดอัตโนมัติทุกเดือนครับที่เป็นธุระตามรอบบินได้เลยไม่ต้องไม่ต้องไปจ่ายเองต่างหากนะครับลูกค้าสมาชิกเราแจ้งรอบบิลของเดือนนี้ก็คือตัดไปแล้วใช่ไหมครับ...
+```
+- **Explanation**: Just mentioning premium collection methods without details about the amount, payment period, insurance period, and obligations regarding continuous payments.
+
+### Non-Compliance 7:
+```
+ในส่วนของความคุ้มครองประกันติดต่อได้เลยนะครับแล้วก็เดี๋ยวตรงนี้ผมเรียนแจ้งเพิ่มเติมนิดนึงจะมี SMS นะครับส่งลิงค์ให้กับลูกค้าในเบอร์โทรนี้ด้วยเบื้องต้นเนี่ยอย่าลืมยืนยันตัวตนให้น้องนิดนึงนะครับเดี๋ยว...
+```
+- **Explanation**: While the right to inform about cancellation and customer data is mentioned, it does not comply fully with details about customer rights such as the free-look period, the claim process, and the ability to surrender or cancel the policy.
+
+---
+Overall, the conversation failed to adhere to various compliance guidelines, such as clarity on the type of product, overstating benefits, and proper presentation of premium payment details and customer rights.
